@@ -21,9 +21,11 @@ condicionales innecesarias y que hacen mas codigo del necesario.
 + Silabinfo debe permitir hacer reservas para la gestion de diferentes recursos de la universidad, estas siendo
 manejadas por los profesores, estudiantes y monitores, no solo por colaboradores del laboratorio. Asi mismo, debe 
 validar primero todos los requrimientos de su recurso, como el usuario, numero de puestos, tiempo de reserva y si ya hay
-alguna reserva en el tiempo
+alguna reserva en el tiempo. Esto se realizara con ayuda del Factoy Method
+
 + Inicialmente Silabinfo debe gestionar 5 recursos: laboratorios, salones de clases, oficinas, salas de estudio y 
 equipos, cada una de estas debe tener condicionales o reglas especificas, los datos del recurso que se necesite
+
 + Silabinfo debe tener la informacion de Enlace para poder manejar los datos de: Materias y estudiantes,y el de
 recuersos humanos para los profesores, ya que esta por si sola no guarda la informacion
 
@@ -32,3 +34,14 @@ recuersos humanos para los profesores, ya que esta por si sola no guarda la info
 + Silabinfo debe mantener los colores alusivos al programa de
   Ingeniería de Sistemas
 + Silabinfo debe tener una tipografia legible
+
+## Punto 4
+
+Aca se selecciono el primer requerimiento funcional
+
+![Captura1.png](docs%2Fimages%2FCaptura1.png)
+
+Aca se selecciono el tercer requerimiento funcional
+
+![Captura2.png](docs%2Fimages%2FCaptura2.png)
+

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdd248a4-0506-4b42-9fa0-32d28de94e43" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="bdd248a4-0506-4b42-9fa0-32d28de94e43" name="Changes" comment="feat: Parcial parte 3 - Acción realizad">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DOSW-ParcialT1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DOSW-ParcialT1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DOSW-ParcialT1/docs/images/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "feature/punto3",
+    "git-widget-placeholder": "feature/punto4",
     "kotlin-language-version-configured": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -77,5 +77,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Parcial parte 3 - Acción realizad" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Parcial parte 3 - Acción realizad" />
   </component>
 </project>
