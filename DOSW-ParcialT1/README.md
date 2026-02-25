@@ -1,6 +1,11 @@
 # DOSW_ParcialT1_MariaRodriguez
 Parcial Practico  DOSW 1 corte 2026-1
 
+## Punto 1
+
+Diagrama de contexto Silabinfo
+![Captura3.png](docs%2Fimages%2FCaptura3.png)
+
 ## Punto 2
 En este punto debemos identificar los patrones de diseño que usaremos, estos son:
 #### Patron Strategy:
